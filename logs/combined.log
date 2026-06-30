@@ -1,0 +1,13 @@
+{"error":"","level":"error","message":"Fatal startup error","timestamp":"2026-06-28 09:12:36"}
+{"error":"","level":"error","message":"Fatal startup error","timestamp":"2026-06-28 09:13:25"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-06-28 10:51:20"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-06-28 11:19:48"}
+{"level":"info","message":"✅  Database connection verified","timestamp":"2026-06-28 11:19:48"}
+{"level":"info","message":"🚀  Enterprise Nexus API running on port 5000 [undefined]","timestamp":"2026-06-28 11:19:48"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-06-28 11:20:42"}
+{"level":"info","message":"✅  Database connection verified","timestamp":"2026-06-28 11:20:42"}
+{"ip":"::1","level":"info","message":"GET /get","timestamp":"2026-06-28 11:21:44"}
+{"ip":"::1","level":"info","message":"POST /post","timestamp":"2026-06-28 11:22:14"}
+{"level":"info","message":"PostgreSQL pool connected","timestamp":"2026-06-28 11:22:59"}
+{"level":"info","message":"✅  Database connection verified","timestamp":"2026-06-28 11:22:59"}
+{"level":"info","message":"🚀  Enterprise Nexus API running on port 5000 [undefined]","timestamp":"2026-06-28 11:22:59"}
